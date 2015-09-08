@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["SrgbTexture1d","A one-dimensional texture  containing sRGB floating-point data."],["SrgbTexture1dLayer","Represents a single layer of a `SrgbTexture1d`."],["SrgbTexture1dLayerMipmap","Represents a single layer of a mipmap level of a `SrgbTexture1d`."],["SrgbTexture1dMipmap","Represents a single mipmap level of a `SrgbTexture1d`."]]});

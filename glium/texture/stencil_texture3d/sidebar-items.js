@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["StencilTexture3d","A three-dimensional texture  containing stencil data."],["StencilTexture3dLayer","Represents a single layer of a `StencilTexture3d`."],["StencilTexture3dLayerMipmap","Represents a single layer of a mipmap level of a `StencilTexture3d`."],["StencilTexture3dMipmap","Represents a single mipmap level of a `StencilTexture3d`."]]});
